@@ -17,25 +17,6 @@ Frontend: React
 Backend: Flask  
 Database: SQLite  
 
-## Project Structure
-
-url-threat-intelligence-scanner
-│
-├── backend
-│   ├── app.py
-│   └── scanner.py
-│
-├── frontend
-│   ├── public
-│   │   └── index.html
-│   │
-│   └── src
-│       ├── App.js
-│       ├── App.css
-│       └── index.js
-│
-└── sample.png
-
 ## How to Run
 
 Backend
