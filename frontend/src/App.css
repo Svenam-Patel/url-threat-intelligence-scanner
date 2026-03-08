@@ -1,0 +1,65 @@
+body{
+ background:#0f172a;
+ color:white;
+ font-family:Arial;
+}
+
+.container{
+ width:900px;
+ margin:auto;
+ margin-top:40px;
+}
+
+h1{
+ color:#38bdf8;
+}
+
+.scan-box{
+ margin-top:20px;
+}
+
+input{
+ padding:10px;
+ width:400px;
+ border-radius:6px;
+ border:none;
+ margin-right:10px;
+}
+
+button{
+ padding:10px 20px;
+ background:#22c55e;
+ color:white;
+ border:none;
+ border-radius:6px;
+ cursor:pointer;
+}
+
+button:hover{
+ background:#16a34a;
+}
+
+.result{
+ margin-top:20px;
+ background:#1e293b;
+ padding:20px;
+ border-radius:8px;
+}
+
+table{
+ width:100%;
+ margin-top:20px;
+ border-collapse:collapse;
+ background:#1e293b;
+}
+
+th{
+ background:#38bdf8;
+ color:black;
+ padding:10px;
+}
+
+td{
+ padding:10px;
+ border-bottom:1px solid #334155;
+}
